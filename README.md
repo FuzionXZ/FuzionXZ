@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++, Python and Unity Engine
 - 💞️ I’m looking to collaborate on Startup Game Dev Projects 
 - 📫 How to reach me:
-Instagram: nithink2175
 Discord: fuzionxz
 
 
